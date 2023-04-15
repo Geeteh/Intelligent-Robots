@@ -1,5 +1,5 @@
 # Intelligent-Robots
-Repository for Turtlebot 3 autonomous navigation from scratch in Python. Find scripts in ***my_nodes/***, or navigate to ***src/beginner_tutorials/scripts/*** package for localization, computer vision, proportional-integral-derivative controllers, and path planning. The implementation of all nodes will grant Turtlebot the capability to play soccer.
+Repository for Turtlebot 3 autonomous navigation by Python nodes. Find scripts in ***my_nodes/***, or navigate to ***src/beginner_tutorials/scripts/*** package for localization, computer vision, proportional-integral-derivative controllers, and path planning. The implementation of all nodes will grant Turtlebot the capability to play soccer.
 
 ## Nodes
 ***prison_break.py*** - This node provides an event loop that responds to the robots environment. If the robot bumps into an object of its environment, the event loop will respond appropriately by letting the robot back up, turn, and continue on its path.
